@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name "ex1-backups")(type "KiCad")(uri "${KIPRJMOD}/ex1-backups.pretty")(options "")(descr ""))
-  (lib (name "lib_pcb")(type "KiCad")(uri "C:/Users/MONSTER/Desktop/lib_pcb.pretty")(options "")(descr ""))
-)
